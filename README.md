@@ -274,22 +274,4 @@ Visitor hit counts are stored in-memory using a `List`. In a production environm
 
  
 
-## Contributing
 
- 
-
-Contributions to this project are welcome! If you have any suggestions, find issues, or want to enhance the functionality, please feel free to open an issue or submit a pull request.
-
- 
-
- 
-
-<!-- Acknowledgments -->
-## Acknowledgments
-Thank you to the Spring Boot and Java communities for providing excellent tools and resources.
-
- 
-
-<!-- Contact -->
-## Contact
-For questions or feedback, please contact [Rebel Sk](mailto:iamrebelsk@gmail.com).
